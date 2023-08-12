@@ -32,12 +32,17 @@ GIF created with ...
 App: Instagram
 - Highlights - Give the chance to organize the stories and keep those on your profile
 - Archives - Having the ability to archive the not wanted photos and to shows those again after a certain time without reposting the content again.
+  
 App: Facebook
 - Groups: We can create and join communities with the same interesets
 - Reels: Combining different videos and picture to create one content
+  
 App: BeReal
 - Sharing live content at an unspecified time each day
 - Reaction - Reacting with different kind of emojis at friends live content
+
+App idea: AR filters are currently in extremely high demand. These filters, crafted by developers, are sought after by influencers and bloggers from various fields. My iOS app aims to bridge the gap, providing a platform that connects bloggers with a diverse range of developers specializing in creating AR filters. This endeavor has the potentioanl to foster a unique and collaborative environment with the AR world.
+ 
 
 ## Notes
 
