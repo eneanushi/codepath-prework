@@ -3,7 +3,7 @@
 
 Submitted by: Enea Nushi
 
-CodePath prework prject, is an app that is supposed to show on the screen three labels and a button. Functionality of the button would be, changing the background color of the app in everytime that is clicked.
+CodePath prework project, is an app that is supposed to show on the screen three labels and a button. Functionality of the button would be, changing the background color of the app in everytime that is clicked.
 
 Time spent: **1.5** hours spent in total
 
