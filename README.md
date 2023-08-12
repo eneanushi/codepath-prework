@@ -3,7 +3,7 @@
 
 Submitted by: Enea Nushi
 
-CodePath prework project, is an app that is supposed to show on the screen three labels and a button. Functionality of the button would be, changing the background color of the app in everytime that is clicked.
+CodePath prework project is an app that is supposed to show on the screen three labels and a button. The functionality of the button would be, changing the background color of the app every time that is clicked.
 
 Time spent: **1.5** hours spent in total
 
@@ -11,7 +11,7 @@ Time spent: **1.5** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] Users are see a screen with three labels and a button
+- [x] Users see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
@@ -31,22 +31,22 @@ GIF created with ...
 
 App: Instagram
 - Highlights - Give the chance to organize the stories and keep those on your profile
-- Archives - Having the ability to archive the not wanted photos and to shows those again after a certain time without reposting the content again.
+- Archives - Having the ability to archive the not wanted photos and to show those again after a certain time without reposting the content again.
   
 App: Facebook
-- Groups: We can create and join communities with the same interesets
-- Reels: Combining different videos and picture to create one content
+- Groups: We can create and join communities with the same interests
+- Reels: Combining different videos and pictures to create one content
   
 App: BeReal
 - Sharing live content at an unspecified time each day
-- Reaction - Reacting with different kind of emojis at friends live content
+- Reaction - Reacting with different kinds of emojis at friends' live content
 
-App idea: AR filters are currently in extremely high demand. These filters, crafted by developers, are sought after by influencers and bloggers from various fields. My iOS app aims to bridge the gap, providing a platform that connects bloggers with a diverse range of developers specializing in creating AR filters. This endeavor has the potentioanl to foster a unique and collaborative environment with the AR world.
+The app idea: AR filters are currently in extremely high demand. These filters, crafted by developers, are sought after by influencers and bloggers from various fields. My iOS app aims to bridge the gap, providing a platform that connects bloggers with a diverse range of developers specializing in creating AR filters. This endeavor has the potential to foster a unique and collaborative environment within the AR world.
  
 
 ## Notes
 
-Submission part was the part that I am struggling more. With the right research and help from Codepath I would be able to success with this part.
+The submission part was the part that I am struggling with more. With the right research and help from Codepath, I would be able to succeed with this part.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
